@@ -38,6 +38,7 @@ image-classification-mmpretrain/
     ├── main.py  
     └── work_dir/
         └── trained_model.pth
+```
 
 ## Exercise 1
 
