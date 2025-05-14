@@ -27,16 +27,18 @@ The project is divided into two parts:
 ## Project Structure
 
 Here’s how the files are organized:
+```text
 image-classification-mmpretrain/
 ├── Ex1/
 │   ├── flower_dataset.zip
 │   ├── config.py
-│   ├── trained_model.pth
-├── Ex2/
-│   ├── report.pdf
-│   ├── main.py  
-│   ├── work_dir/
-│       ├── trained_model.pth
+│   └── trained_model.pth
+└── Ex2/
+    ├── report.pdf
+    ├── main.py  
+    └── work_dir/
+        └── trained_model.pth
+
 ## Exercise 1
 
 ### Overview
@@ -76,8 +78,7 @@ Before installing, make sure you have the following tools installed:
 ### Installation
 
 To clone and set up the project:
-
-```bash
+bash
 git clone https://github.com/your-username/image-classification-mmpretrain.git
 cd image-classification-mmpretrain
 Environment
