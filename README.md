@@ -89,5 +89,5 @@ Operating System: Linux / Windows / macOS (with CUDA support)
 Using these versions ensures compatibility across components, especially between MMPretrain, MMCV, and PyTorch.
 ```
 
-Contributing
+### Contributing
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. I welcome improvements to the code, documentation, and training strategies.
