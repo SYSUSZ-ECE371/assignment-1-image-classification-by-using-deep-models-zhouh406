@@ -14,7 +14,6 @@ This is my personal project repository where I explore image classification usin
 - [Usage](#usage)
 - [Environment](#environment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -77,14 +76,10 @@ Before installing, make sure you have the following tools installed:
 - Basic knowledge of PyTorch and MMPretrain
 
 ### Installation
-
-To clone and set up the project:
-bash
-git clone https://github.com/your-username/image-classification-mmpretrain.git
-cd image-classification-mmpretrain
 Environment
 The development environment I used for this project is as follows:
 
+```text
 Python Version: 3.10
 CUDA Version: 12.1
 PyTorch Version: 2.3
@@ -92,6 +87,7 @@ NumPy Version: 1.26.0
 MMCV Version: 2.2.0
 Operating System: Linux / Windows / macOS (with CUDA support)
 Using these versions ensures compatibility across components, especially between MMPretrain, MMCV, and PyTorch.
+```
 
 Contributing
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. I welcome improvements to the code, documentation, and training strategies.
